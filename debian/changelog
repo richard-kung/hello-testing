@@ -1,4 +1,4 @@
-hello (2.10-2rich1) jammy; urgency=medium
+hello (2.10-2ubuntu4rich1) jammy; urgency=medium
 
   * show additional message and add testing.sh for Canonical interview 
 
